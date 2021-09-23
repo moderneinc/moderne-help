@@ -2,7 +2,7 @@
 name: "\U0001F5E3 Feedback"
 about: Share your thoughts or ideas about how we can improve the experience.
 title: "[Feedback] - "
-labels: ''
+labels: 'feedback'
 assignees: ''
 
 ---
